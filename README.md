@@ -40,12 +40,13 @@ Explore my repositories for projects involving:
 - **Image Identification:** Image-related identification and computer vision experiments.
 - **Blockchain Technology:** Projects exploring blockchain concepts.
 - **Machine Learning and Data Science:** Python-based experiments, data analysis, and model development.
-
+- **HCI-Based 3D Game Development:** Interactive browser-based games featuring 3D rendering, human–computer interaction (HCI), intuitive user interfaces, real-time controls, and immersive gameplay experiences.
+  
 Visit my repositories for source code, documentation, and available demonstrations.
 
 ## 🔬 Research Interests
 
-I'm interested in exploring the intersection of computer science, artificial intelligence, computer vision, privacy-preserving machine learning, and interactive systems.
+I'm interested in exploring the intersection of computer science, artificial intelligence, computer vision, privacy-preserving machine learning, human-computer interaction, and interactive systems.
 
 ## 🔗 Connect With Me
 
