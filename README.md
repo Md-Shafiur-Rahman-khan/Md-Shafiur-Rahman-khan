@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a Computer Science graduate interested in building interactive web applications, machine learning solutions, data-driven systems, and practical software projects.
 
-🌐 **Portfolio:** [Explore my projects](https://www.linkedin.com/in/md-shafiur-rahman-khan-3a5a4193/?isSelfProfile=true))
+🌐 **Portfolio:** [Explore my projects](https://www.linkedin.com/in/md-shafiur-rahman-khan-3a5a4193/?isSelfProfile=true)
 
 ## 🚀 Areas of Interest
 
